@@ -1,22 +1,20 @@
-# cursor-setup
-# AI Tools Setup
+AI Tools Setup
+Tools Installed
+Cursor IDE
+Claude Code Extension
+Codex Extension
+GitHub
+Steps Completed
+Installed Cursor IDE.
+Installed the Claude Code extension and logged in.
+Installed the Codex extension and logged in.
+Created a GitHub account.
+Created a public GitHub repository.
+Created a README.md file describing the setup process.
+Uploaded the README to GitHub.
 
-## Tools Installed
+Issues Encountered
+I was unfamiliar with some of the GitHub and Cursor workflow steps at first.
 
-- Cursor IDE
-- GitHub
-
-## Steps Completed
-
-1. Created a GitHub account.
-2. Created a public repository.
-3. Installed Cursor IDE.
-4. Started configuring the required extensions.
-
-## Issues Encountered
-
-The Claude Code and Codex extensions required additional account setup.
-
-## Solutions
-
-I followed the available documentation and continued configuring the tools.
+Solutions
+I used the available documentation and tutorials to understand the process and complete the setup successfully.
